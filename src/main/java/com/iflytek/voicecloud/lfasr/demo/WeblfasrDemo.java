@@ -28,8 +28,8 @@ public class WeblfasrDemo {
     /**
      * TODO 设置appid和secret_key
      */
-    public static final String APPID = "5fcf5ed3";
-    public static final String SECRET_KEY = "a4752dbd6b587728eeadf894a502cc1d";
+    public static final String APPID = "";
+    public static final String SECRET_KEY = "";
     public static final String PREPARE = "/prepare";
     public static final String UPLOAD = "/upload";
     public static final String MERGE = "/merge";
